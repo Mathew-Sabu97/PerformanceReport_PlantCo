@@ -1,4 +1,4 @@
-<h1>Performance Report - Plant Co.</h1>
+<h1>Performance Report</h1>
 
 <h2>Description</h2>
 This project is a comprehensive performance dashboard created using Power BI, designed to analyze the operational data of a plant company. The dashboard provides insights into key business metrics, including Sales, Gross Profit, and Quantity, allowing users to compare Year-To-Date (YTD) with Previous Year-To-Date (PYTD) values. The dashboard is interactive, offering dynamic visualizations that adapt based on user selections, facilitating in-depth analysis and decision-making.
